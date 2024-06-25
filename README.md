@@ -1,8 +1,4 @@
-# online-blade-formatter
 
-An online blade formatter based on [blade-formatter](https://github.com/shufo/blade-formatter)
-
-[https://online-blade-formatter.vercel.app/](https://online-blade-formatter.vercel.app/#)
 
 ## Deploy
 
