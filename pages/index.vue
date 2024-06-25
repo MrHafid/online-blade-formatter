@@ -95,13 +95,6 @@
               <ul class="list-reset text-xs mb-6">
                 <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
                   <a
-                    href="https://github.com/shufo/online-blade-formatter"
-                    class="text-grey hover:text-grey-dark"
-                    >Source Code</a
-                  >
-                </li>
-                <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
-                  <a
                     href="https://github.com/mrhafid"
                     class="text-grey hover:text-grey-dark"
                     >Author</a
