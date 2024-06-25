@@ -9,7 +9,7 @@
           class="navbar-menu hidden lg:order-3 lg:block w-full lg:w-2/5 lg:text-right lg:h-auto"
         >
           <a
-            href="https://github.com/shufo/online-blade-formatter"
+            href="https://github.com/MrHafid/online-blade-formatter"
             target="_blank"
           >
             <component
@@ -102,7 +102,7 @@
                 </li>
                 <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
                   <a
-                    href="https://github.com/shufo"
+                    href="https://github.com/mrhafid"
                     class="text-grey hover:text-grey-dark"
                     >Author</a
                   >
@@ -235,7 +235,7 @@ export default {
 /* required class */
 .editor {
   /* we dont use `language-` classes anymore so thats why we need to add background and text color manually */
-  background: #2d2d2d;
+  background: #071952;
   color: #ccc;
 
   /* you must provide font-family font-size line-height. Example: */
